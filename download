@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Excel files created by the model (input template and results)
+*.xlsx
+~$*.xlsx
