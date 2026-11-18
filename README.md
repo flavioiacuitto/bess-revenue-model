@@ -30,7 +30,7 @@ The result is each year's revenue in k EUR/MW (and k EUR/MWh): nothing is discou
 Python 3.10 or later.
 
 ```bash
-git clone https://github.com/<your-username>/bess-revenue-model.git
+git clone https://github.com/giulioiacuitto/bess-revenue-model.git
 cd bess-revenue-model
 pip install -r requirements.txt
 python test_bess_model.py        # must print "20/20 tests passed"
@@ -145,7 +145,7 @@ the engine, hourly output covering every year with nothing discounted.
 ## How to cite
 
 > F. Iacuitto, *BESS revenue model — day-ahead arbitrage* (thesis version), 2026.
-> GitHub repository: https://github.com/<your-username>/bess-revenue-model
+> GitHub repository: https://github.com/giulioiacuitto/bess-revenue-model
 
 ## License
 
